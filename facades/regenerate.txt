@@ -1,0 +1,6 @@
+
+
+ts2fable node_modules/react-babylonjs/dist/types/react-babylonjs.d.ts facades/ReactBabylonJs.fs -e babylonjs
+
+Babylonjs
+ts2fable node_modules/babylonjs/babylon.d.ts facades/Babylonjs.fs
